@@ -1,6 +1,6 @@
 # Glowing Cube
 
-<img src="">
+<img src="glowingcube.png">
 
 ## Table of Contents  
 * [Description](##Description)  
