@@ -4,8 +4,7 @@
 
 ## Table of Contents  
 * [Description](##Description)  
-* [Technologies](##Technologies)  
-* [Screenshot](##Screenshot)  
+
 * [Installation](##Installation)  
 * [License](##License)  
 * [Contact](##Contact)  
@@ -17,11 +16,7 @@ This web apllicaiton is a demonstration of css different css properties. The css
 
 This application will eventually have multiple glowing cubes.
 
-## Deployed Application
-
-The deployed application is at 
-## Installation
-
+### Installation
 1. Clone the repo
    ```sh
    git clone https://github.com/hoeferg/glowingcube
