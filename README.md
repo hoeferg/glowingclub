@@ -14,7 +14,7 @@ This web apllicaiton is a demonstration of css different css properties. The css
 
 ### Future Development
 
-This application will eventually have multiple glowing cubes.
+This application will eventually have multiple glowing cubes abd be deployed to a website.
 
 ### Installation
 1. Clone the repo
