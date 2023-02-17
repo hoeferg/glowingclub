@@ -18,7 +18,7 @@ This application will eventually have multiple glowing cubes abd be deployed to 
 
 ### Installation
 1. Clone the repo
-   ```sh
+   ``sh
    git clone https://github.com/hoeferg/glowingcube
    ```
 2. Install NPM packages
